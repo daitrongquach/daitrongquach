@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Dai Trong!
-![Header](img/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif "Header")
+![Header](img/header.gif "Header")
 
 ### A little more about me...
 
