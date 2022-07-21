@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Dai Trong!
 ![Header](img/header.gif "Header")
 
-### A little more about me...
-![Java](img/java.svg "Jeader")
+### My Tech Stack
+![Java](img/java.svg "Jeader")![Python](img/python.svg "Python")
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
