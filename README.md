@@ -2,7 +2,7 @@
 ![Header](img/header.gif "Header")
 
 ### My Tech Stack
-![Java](img/java.svg "Jeader")![Python](img/python.svg "Python")
+![Java](img/java.svg "Jeader") ![Python](img/python.svg "Python")
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
