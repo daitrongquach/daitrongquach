@@ -2,7 +2,7 @@
 ![Header](img/header.gif "Header")
 
 ### A little more about me...
-
+![Java](img/java.svg "Jeader")
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
