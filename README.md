@@ -2,7 +2,7 @@
 ![Header](img/header.gif "Header")
 
 ### My Tech Stack
-![Java](img/java.svg "Jeader") ![Python](img/python.svg "Python") ![Apex](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX> "Apex")
+![Java](img/java.svg "Jeader") ![Python](img/python.svg "Python") ![Apex](https://img.shields.io/badge/dynamic/json?url=<https://www.tinhoccoban.net/2021/08/tu-hoc-lap-trinh-java-cau-lenh-bieu.html>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX> "Apex")
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
