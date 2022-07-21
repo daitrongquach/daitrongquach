@@ -4,7 +4,7 @@
 ### My Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Apex](https://img.shields.io/badge/A-Apex-blue)
+![Apex](https://img.shields.io/badge/A-Apex-blue?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
