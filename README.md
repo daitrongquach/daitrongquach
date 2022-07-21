@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Dai Trong
-![92398696-07e9ae00-f164-11ea-9f4f-42df807a6218](img/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif)
+### Hi there 👋, I'm Dai Trong!
+![Header](img/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif "Header")
 
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
