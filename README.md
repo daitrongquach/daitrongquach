@@ -2,7 +2,10 @@
 ![Header](img/header.gif "Header")
 
 ### My Tech Stack
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) ![Python](img/python.svg "Python") ![Apex](https://img.shields.io/badge/dynamic/json?url="https://www.tinhoccoban.net/2021/08/tu-hoc-lap-trinh-java-cau-lenh-bieu.html"&label=<Lllll>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX> "Apex")
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Apex](https://img.shields.io/badge/A-Apex-blue)
+
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
