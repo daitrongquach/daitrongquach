@@ -34,6 +34,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SoQL](https://img.shields.io/badge/SoQL-success?style=for-the-badge&logo=Apex&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Apex&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-brightgreen?style=for-the-badge&logo=Apex&logoColor=white)
 
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
