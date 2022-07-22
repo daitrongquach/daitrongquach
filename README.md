@@ -37,6 +37,12 @@
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Apex&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-brightgreen?style=for-the-badge&logo=Apex&logoColor=white)
 
+### Big Data
+![NoSQL](https://img.shields.io/badge/NoSQL-inactive?style=for-the-badge&logo=Apex&logoColor=white)
+![GraphDatabse](https://img.shields.io/badge/GraphDatabse-ff69b4?style=for-the-badge&logo=Apex&logoColor=white)
+
+### Intergrated Development Environment
+
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
