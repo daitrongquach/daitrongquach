@@ -40,7 +40,7 @@
 ### Others
 ![IntelliJIDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![Anaconda](https://img.shields.io/pypi/v/mlconjug.svg](https://img.shields.io/conda/vln/:channel/:package.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
+![Anaconda](https://img.shields.io/conda/vln/:channel/:package.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
