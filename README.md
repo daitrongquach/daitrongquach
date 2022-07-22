@@ -21,6 +21,7 @@
 ### Framework & Library
 ![Gurobi](https://img.shields.io/static/v1?style=for-the-badge&message=Gurobi&color=EE3524&logo=Gurobi&logoColor=FFFFFF&label=)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![IlluminatedCloud2](https://img.shields.io/badge/Illuminated Cloud II-9cf?style=for-the-badge&logo=Apex&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/Codeigniter-orange?style=for-the-badge&logo=Apex&logoColor=white)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![Zend](https://img.shields.io/static/v1?style=for-the-badge&message=Zend&color=0679EA&logo=Zend&logoColor=FFFFFF&label=)
@@ -32,7 +33,7 @@
 ### Database
 ![MicrosoftAccess](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SoQL](https://img.shields.io/badge/SoQL-success?style=for-the-badge&logo=Apex&logoColor=black)
+![SoQL](https://img.shields.io/badge/SoQL-success?style=for-the-badge&logo=Apex&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Apex&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-brightgreen?style=for-the-badge&logo=Apex&logoColor=white)
 
