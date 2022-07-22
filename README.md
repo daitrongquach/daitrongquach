@@ -24,7 +24,7 @@
 ![CodeIgniter](https://img.shields.io/badge/Codeigniter-orange?style=for-the-badge&logo=Apex&logoColor=white)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![Zend](https://img.shields.io/static/v1?style=for-the-badge&message=Zend&color=0679EA&logo=Zend&logoColor=FFFFFF&label=)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?logo=symfony&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=reactjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
