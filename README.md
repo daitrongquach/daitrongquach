@@ -2,7 +2,7 @@
 ![Header](img/header.gif "Header")
 
 ### My Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Apex](https://img.shields.io/badge/A-Apex-blue?style=for-the-badge&logo=Apex&logoColor=white)
 
