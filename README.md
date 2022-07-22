@@ -29,19 +29,23 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Database
-- **Relational Database:**<br />
 ![MicrosoftAccess](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SoQL](https://img.shields.io/badge/SoQL-success?style=for-the-badge&logo=Apex&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Apex&logoColor=white)
+![OracleDatabase](http://img.shields.io/badge/-Oracle-DD0031?style=for-the-badge&logo=oracle)
 ![Neo4j](https://img.shields.io/badge/Neo4j-brightgreen?style=for-the-badge&logo=Apex&logoColor=white)
 
 ### Big Data
 ![NoSQL](https://img.shields.io/badge/NoSQL-inactive?style=for-the-badge&logo=Apex&logoColor=white)
 ![GraphDatabse](https://img.shields.io/badge/GraphDatabse-ff69b4?style=for-the-badge&logo=Apex&logoColor=white)
 
-### Intergrated Development Environment
-
+### Others
+![IntelliJIDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
