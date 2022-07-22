@@ -32,7 +32,7 @@
 ### Database
 ![MicrosoftAccess](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SoQL](https://img.shields.io/badge/SoQL-success?style=for-the-badge&logo=Apex&logoColor=white)
+![SoQL](https://img.shields.io/badge/SoQL-success?style=for-the-badge&logo=Apex&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Apex&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-brightgreen?style=for-the-badge&logo=Apex&logoColor=white)
 
