@@ -42,6 +42,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-success?style=for-the-badge&logo=Apex&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-blueviolet?style=for-the-badge&logo=Apex&logoColor=white)
+![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
