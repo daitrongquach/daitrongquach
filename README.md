@@ -25,7 +25,7 @@
 ![Zend](https://img.shields.io/static/v1?style=for-the-badge&message=Zend&color=0679EA&logo=Zend&logoColor=FFFFFF&label=)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=reactjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Database
