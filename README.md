@@ -1,22 +1,22 @@
 # Hi there 👋, I'm Dai Trong!
 ![Header](img/header.gif "Header")
 
+<!--
 ## A little more about me...
 ```javascript
 const trong = {
   pronouns: "he" | "him",
-  skills: [Web & App development, Mathematical Programming]
-  code: [Python, Java, Apex, PHP, C, C++, C#, R],
-  tools: [Gurobi, Django, Spring, Illuminated Cloud, CodeIgniter, Angular, React],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  skills: ["Web & App development", "Mathematical Programming"],
+  tools: {
+    Python: ["Django", "Flask"],
+    Java: ["Spring MVC", "Hibernate"],
+    Apex: ["Illuminated Cloud II"],
+    PHP: ["CodeIgniter", "Laravel", "Zend", "Symfony"]
+  },
+  architecture: ["microservices", "design system pattern"]
 }
 ```
+-->
 
 ## My Tech Stack
 ### Programming Language
