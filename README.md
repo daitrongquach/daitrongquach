@@ -1,7 +1,8 @@
-## Hi there 👋, I'm Dai Trong!
+# Hi there 👋, I'm Dai Trong!
 ![Header](img/header.gif "Header")
 
-### My Tech Stack
+## My Tech Stack
+### Programming Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-blue?style=for-the-badge&logo=Apex&logoColor=white)
