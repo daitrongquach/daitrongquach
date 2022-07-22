@@ -19,7 +19,7 @@
 ### Framework & Library
 ![Gurobi](https://img.shields.io/static/v1?style=for-the-badge&message=Gurobi&color=EE3524&logo=Gurobi&logoColor=FFFFFF&label=)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![IlluminatedCloud2](https://img.shields.io/badge/IlluminatedCloudII-9cf?style=for-the-badge&logo=illuminatedcloud2&logoColor=white)
+![IlluminatedCloud2](https://img.shields.io/badge/IlluminatedCloudII-9cf?style=for-the-badge&logo=illuminated-cloud-2&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/Codeigniter-orange?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![Zend](https://img.shields.io/static/v1?style=for-the-badge&message=Zend&color=0679EA&logo=Zend&logoColor=FFFFFF&label=)
