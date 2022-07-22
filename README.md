@@ -39,7 +39,7 @@
 
 ### Others
 ![IntelliJIDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)
-![Eclipse](https://img.shields.io/badge/Eclipse-violet?style=for-the-badge&logo=eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-success?style=for-the-badge&logo=anaconda&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-blueviolet?style=for-the-badge&logo=visualstudio&logoColor=white)
