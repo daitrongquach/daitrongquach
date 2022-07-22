@@ -18,7 +18,8 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-
+### Framework & Library
+![Gurobi](https://img.shields.io/static/v1?style=for-the-badge&message=Gurobi&color=EE3524&logo=Gurobi&logoColor=FFFFFF&label=)
 
 <!--
 **daitrongquach/daitrongquach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
