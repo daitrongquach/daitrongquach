@@ -44,6 +44,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-success?style=for-the-badge&logo=anaconda&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-blueviolet?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
