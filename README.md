@@ -58,7 +58,7 @@ const trong = {
 
 ### Others
 ![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![IntelliJIDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/Netbeans-9cf?style=flat&logo=netbeans&logoColor=white)
