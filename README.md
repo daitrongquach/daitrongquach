@@ -57,7 +57,7 @@ const trong = {
 ![GraphDatabse](https://img.shields.io/badge/GraphDatabse-ff69b4?style=flat&logo=graphdatabase&logoColor=white)
 
 ### Others
-[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+![Vim](https://img.shields.io/badge/--019733?logo=vim)
 ![IntelliJIDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/Netbeans-9cf?style=flat&logo=netbeans&logoColor=white)
