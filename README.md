@@ -43,7 +43,7 @@ const trong = {
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js%20support-8-brightgreen.svg)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
 ### Database
