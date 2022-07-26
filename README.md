@@ -69,6 +69,7 @@ const trong = {
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
 ![PHPDesigner](https://img.shields.io/badge/PHPDesigner-informational?style=flat&logo=phpdesigner&logoColor=white)
 ![DreamWeaver](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=flat&logo=Adobe%20Dreamweaver&logoColor=34F400)
+![Voxel](https://img.shields.io/badge/Voxel-red?style=flat&logo=r&logoColor=white)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
