@@ -6,7 +6,7 @@
 var me = {
     firstname: "Dai-Trong",
     surname: "QUACH",
-    birthday: "1990-08-11",
+    birthday: "1992-07-02",
     gender: "male",
     height: "64,251 968 503 937 px",
     onBoring: function() {
