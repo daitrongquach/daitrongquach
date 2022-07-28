@@ -1,22 +1,38 @@
 # Hi there 👋, I'm Dai Trong ( Full-stack Developer | Designer | Digital Warman )
 ![Header](img/header.gif "Header")
 
-<!--
 ## A little more about me...
 ```javascript
-const trong = {
-  pronouns: "he" | "him",
-  skills: ["Web & App development", "Mathematical Programming"],
-  tools: {
-    Python: ["Django", "Flask"],
-    Java: ["Spring MVC", "Hibernate"],
-    Apex: ["Illuminated Cloud II"],
-    PHP: ["CodeIgniter", "Laravel", "Zend", "Symfony"]
-  },
-  architecture: ["microservices", "design system pattern"]
-}
+var me = {
+    firstname: "Dai-Trong",
+    surname: "QUACH",
+    birthday: "1990-08-11",
+    gender: "male",
+    height: "64,251 968 503 937 px",
+    onBoring: function() {
+        speakWithYourself();
+    },
+    skills: [
+        "web" => [
+            "HTML(5)",
+            "CSS(3)",
+            "Javascript",
+            "PHP",
+            "MYSQL",
+            "Failed to load additional 5010 skills"
+        ]
+    ],
+    cash: 2147483647,
+    onClick: function() {
+        pokeback();
+    },
+    onTickle: function() {
+        laugh();
+    }
+};
+
+return me;
 ```
--->
 
 ## My Tech Stack
 ### Programming Language
