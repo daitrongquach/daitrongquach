@@ -8,7 +8,7 @@ var me = {
     surname: "QUACH",
     birthday: "1992-07-02",
     gender: "male",
-    height: "64,251 968 503 937 px",
+    height: "6 425,196 850 393 7px",
     onBoring: function() {
         speakWithYourself();
     },
