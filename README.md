@@ -34,7 +34,7 @@ var me = {
 return me;
 ```
 
-## My Tech Stack
+## My Tech Stack:
 ### Programming Language
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=black)
