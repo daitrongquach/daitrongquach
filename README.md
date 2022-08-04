@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Dai Trong ( Full-stack Developer | Designer | Digital Warman )
 ![Header](img/header.gif "Header")
 
-## A little more about me....
+## A little more about me...
 ```javascript
 var me = {
     firstname: "Dai-Trong",
