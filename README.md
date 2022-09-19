@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dai Trong ( Full-stack Developer | Designer | Digital Warman )
+# Hi there 👋, I'm Dai Trong ( Full-stack Developer | Designer )
 ![Header](img/header.gif "Header")
 
 ## A little more about me...
