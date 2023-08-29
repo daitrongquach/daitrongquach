@@ -8,12 +8,12 @@ var me = {
     surname: "QUACH",
     birthday: "1992-xx-xx",
     gender: "male",
-    height: "6425,1968503937 px",
+    height: "6425.1968503937 px",
     onBoring: function() {
         speakWithYourself();
     },
-    skills: [
-        "web" => [
+    skills: {
+        web: [
             "HTML(5)",
             "CSS(3)",
             "Javascript",
@@ -21,7 +21,7 @@ var me = {
             "MYSQL",
             "Failed to load additional 5010 skills"
         ]
-    ],
+    },
     cash: 2147483647,
     onClick: function() {
         pokeback();
